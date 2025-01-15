@@ -1,3 +1,3 @@
 # k3s-cluster
 
-K3s cluster with Fluxcd
+K3s cluster flux
